@@ -4,8 +4,8 @@ import datetime
 import requests
 import numpy as np
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("7864705902:AAFrCAicFGeTfpXDiKEfMiKqYfwngNFa8Ts")
+CHAT_ID = os.getenv("6679590529")
 SYMBOL = os.getenv("SYMBOL", "BTCUSDT")
 INTERVAL = "1m"
 RSI_THRESHOLD = 30
